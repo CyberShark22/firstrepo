@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "s",
+  "scripts": {
+    "test": "a",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "firstapp"
+  },
+  "keywords": [
+    "dsa"
+  ],
+  "author": "sad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
